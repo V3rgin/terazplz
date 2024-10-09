@@ -1,0 +1,3 @@
+####
+1) Po rozpakowaniu archiwum zip katalog centrala wrzucić do C:\xampp\htdocs
+2) Zainicjalizować repozytorium GIT'a i zrobić commita do swojego zdalnego repozytorium
