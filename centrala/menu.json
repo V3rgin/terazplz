@@ -1,0 +1,7 @@
+{"menu":[
+    {"url":"lighting.html?groupID-1", "name":"<i class=fa fa-lightbulb-o aria-hidden=true style=color: yellow;></i> Oświetlenie</a>", "active":1},
+    {"url":"#", "name":"<i class=fa fa-lightbulb-o aria-hidden=true style=color: yellow;></i> Oświetlenie</a>", "active":1},
+    {"url":"#", "name":"<i class=fa fa-lightbulb-o aria-hidden=true style=color: yellow;></i> Oświetlenie</a>", "active":1},
+    {"url":"#", "name":"<i class=fa fa-lightbulb-o aria-hidden=true style=color: yellow;></i> Oświetlenie</a>", "active":1},
+    {"url":"#", "name":"<i class=fa fa-lightbulb-o aria-hidden=true style=color: yellow;></i> Oświetlenie</a>", "active":1}
+]}
