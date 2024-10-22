@@ -55,9 +55,11 @@ img {
 #offcanvasLeft {
   width: 18%;
 }
+i{
+  transition: 0.3s;
+}
 i:hover{
   color: brown;
-  transition: background-color 0.5s ease;
 }
 #xpp {
   color: white;
